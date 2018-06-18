@@ -11,7 +11,8 @@
     </div>
 
 @stop
-<!--
+<!-- save this code just in case
+
     <div class="container">
         <div class="row">
             <div class="col-6">&nbsp;</div>
