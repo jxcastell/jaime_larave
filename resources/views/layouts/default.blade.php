@@ -16,6 +16,41 @@
 
     </div>
 
+    <div class="container">
+         @include('includes.galleryRows')
+
+    </div>
+    <div class="container">
+        @include('includes.galleryRows')
+
+    </div>
+    <div class="container">
+        @include('includes.galleryRows')
+
+    </div>
+    <div class="container">
+        @include('includes.galleryRows')
+
+    </div>
+    <div class="container">
+        @include('includes.galleryRows')
+
+    </div>
+    <div class="container">
+        @include('includes.paragraphText')
+
+    </div>
+    <div class="container">
+        @include('includes.paragraphText')
+
+    </div>
+    <div class="container">
+        @include('includes.paragraphText')
+
+    </div>
+    <div>
+        <h4><A NAME="bottom">Go to the top of<a href="#top">  page.</a></h4>
+    </div>
     <footer class="row border border-success">
 
         <div class="col-4">&nbsp;</div>
